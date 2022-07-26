@@ -1,0 +1,17 @@
+.navbar {
+  position: absolute;
+  width: 550px;
+  height: 91px;
+  left: 0;
+  top: 0;
+  background: #21222a;
+}
+
+.reactfacts {
+  font-family: inter;
+  width: 700px;
+  size: 22.25px;
+  line-height: 26.93px;
+  letter-spacing: -5%;
+  color: #61dafb;
+}
